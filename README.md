@@ -1,4 +1,4 @@
-# SeedGenerator
+# PySeedGenerator
 
 Program do generowania mnemonica zgodnego z BIP39 
 
@@ -22,4 +22,4 @@ Tipbox: 1Rav3nkMayCijuhzcYemMiPYsvcaiwHni
 
 Binarka do pobrania w zakładce ["Releases"](https://github.com/Rav3nPL/SeedGenerator/releases)
 
-Wymaga .NET czyli Windoze albo dowolny Linux i macOS z mono/wine
+Wymaga .Pythona
